@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/itemTop"
+        android:background="@drawable/android_background"
+        style="@style/Item.Top"  >
+
+
+    <View
+            android:id="@+id/itemTop"
+            android:background="@drawable/maphole"
+            style="@style/Item.Top"/>
+
+</RelativeLayout>
